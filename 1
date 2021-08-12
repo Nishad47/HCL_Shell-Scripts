@@ -1,0 +1,15 @@
+#!/bin/bash
+
+echo " Enter a number : "
+read num
+
+function fact()
+{
+	for((i=2;i<=num;i++)){
+		output=$((i * 1))
+		echo $output
+	}
+	
+}
+
+echo -e "The factorial of given number is : \n $(fact)"

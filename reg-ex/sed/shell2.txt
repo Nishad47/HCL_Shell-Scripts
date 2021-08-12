@@ -1,0 +1,5 @@
+Shell-Scripting is very good scripting language. Linux is open source.
+One should learn shell-scripting.
+Shell-scripting is used for automation.
+Thanks for learning shell-scripting.
+Have a nice day..

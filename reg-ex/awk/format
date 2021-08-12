@@ -1,0 +1,16 @@
+BEGIN {
+
+print "------------------"
+print "Employee Details"
+print "------------------"
+print "Name \t Designation \t Department \t Salary"
+print "-------------------------------------------"
+}
+{
+print $1 " \t " $2 " \t " $3 " \t " $4
+}
+END {
+print "------------------"
+print "The End"
+print "------------------"
+}
