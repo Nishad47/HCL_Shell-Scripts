@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "Enter a number"
-read n
+
 case $n in
 	1)
     echo "January" ;;
