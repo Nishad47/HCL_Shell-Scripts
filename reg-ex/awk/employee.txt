@@ -1,0 +1,6 @@
+Carl manager It 35000
+Will  manager General 25000
+Emma CLO      Business 35000
+Mark COO      Business 45000
+Lan  CTO      Directorate 50000
+
