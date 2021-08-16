@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Webhook triggring sample-test1"
+echo "Webhook triggring sample-test2"
